@@ -5,4 +5,5 @@ hasil = a + b
 print(f"hasil penjumlahan a+b adalah = {hasil}")
 hitung= (f"angka 2 ditambah angka 4 hasilnya = {2 + 4}")
 ALAMAT= str("Jalan Proklamasi No.45 Jakarta Timur Indonesia")
+print(ALAMAT)
 
