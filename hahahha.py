@@ -3,3 +3,4 @@ a= 5
 b= str("Indonesia Raya")
 print(a+b)
 hitung= (f"angka 2 ditambah angka 4 hasilnya = {2 + 4}")
+ALAMAT= str("Jalan Proklamasi No.45 Jakarta Timur Indonesia")
